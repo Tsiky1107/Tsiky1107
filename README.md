@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=Electronics+Student;AI+Enthusiast;Embedded+Systems+Builder;Future+Engineer" />
+</p>
 # Tsiky Andriantia Ravalison  
 
 Bachelor Student in Electronics, Computer Systems & Artificial Intelligence  
