@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/🌍_Madagascar-Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e&borderRadius=10" />
   <img src="https://img.shields.io/badge/🎓_Electronics_&_AI-Student-764ba2?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/🚀_Available_for-Internship-f093fb?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=667eea&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=Tsiky1107&style=for-the-badge&color=667eea&labelColor=1a1a2e" />
 </p>
 
 <!-- GLOWING DIVIDER -->
@@ -72,15 +72,15 @@
 </td>
 <td width="55%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=⚡%20PERFORMANCE%20METRICS" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=⚡%20PERFORMANCE%20METRICS" width="100%" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=TON_USERNAME&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&sideLabels=667eea&dates=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&border_radius=15" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Tsiky1107&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&sideLabels=667eea&dates=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&border_radius=15" width="100%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=⚡%20CODE%20DISTRIBUTION" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=⚡%20CODE%20DISTRIBUTION" width="100%" />
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ C#:
 
 ## 📊 QUANTUM ANALYTICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH&hide_border=true&radius=20" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH&hide_border=true&radius=20" width="96%" />
 
 <br><br>
 
@@ -280,17 +280,17 @@ C#:
 <tr>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TON_USERNAME&theme=midnight_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsiky1107&theme=midnight_purple" width="100%" />
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TON_USERNAME&theme=midnight_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsiky1107&theme=midnight_purple" width="100%" />
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TON_USERNAME&theme=midnight_purple&utcOffset=3" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsiky1107&theme=midnight_purple&utcOffset=3" width="100%" />
 
 </td>
 </tr>
@@ -299,7 +299,7 @@ C#:
 <br>
 
 <!-- HOLOGRAPHIC TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=discord&no-frame=true&no-bg=false&margin-w=5&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,Reviews,PullRequest" width="96%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tsiky1107&theme=discord&no-frame=true&no-bg=false&margin-w=5&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,Reviews,PullRequest" width="96%" />
 
 </div>
 
@@ -458,7 +458,7 @@ Advanced stabilization platform using MPU6050 IMU with complementary filter and 
   <img src="https://img.shields.io/badge/WHATSAPP-INSTANT_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://github.com/TON_USERNAME">
+<a href="https://github.com/Tsiky1107">
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
@@ -564,6 +564,6 @@ CONTACT_INFO:
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=667eea&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Tsiky1107&style=for-the-badge&color=667eea&labelColor=1a1a2e)
 
 </div>
