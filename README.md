@@ -24,6 +24,7 @@ I focus on understanding systems deeply, not only using them.
 ---
 
 ![Snake animation](https://github.com/Tsiky1107/Tsiky1107/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true" />
