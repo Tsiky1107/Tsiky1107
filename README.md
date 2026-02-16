@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Salut, je suis Tsiky Andriantia Ravalison
+# 👋 Salut, je suis Tsiky Andriantia Ravalison
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Étudiant+en+Électronique+%26+IA;Passionné+par+l'IoT+et+les+Systèmes+Embarqués;Constructeur+de+Solutions+Technologiques" alt="Typing SVG" />
 
@@ -14,128 +14,84 @@
 
 ---
 
-##  À Propos de Moi
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class Tsiky:
     def __init__(self):
-        self.name = "Tsiky Andriantia Ravalison"
         self.role = "Electronics & AI Student"
-        self.location = "Madagascar"
-        self.passions = ["Embedded Systems", "AI/ML", "IoT", "Automation"]
+        self.education = ["42 Antananarivo", "ISPM Antsobolo"]
+        self.passions = ["Embedded Systems", "AI/ML", "IoT"]
         self.currently_seeking = "Internship Opportunity"
     
-    def say_hi(self):
-        print("Merci de visiter mon profil! Construisons quelque chose d'incroyable ensemble!")
+    def skills(self):
+        return {
+            "embedded": ["Arduino", "NRF24", "MPU6050", "ESC Motors"],
+            "ai": ["OpenCV", "Computer Vision", "Machine Learning"],
+            "web": ["React", "Angular", ".NET Core", "PHP"],
+            "languages": ["C", "Python", "JavaScript"]
+        }
 
 me = Tsiky()
-me.say_hi()
+print("Merci de visiter mon profil! 🚀")
 ```
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### Ce qui me passionne
-- **Systèmes Embarqués** - Arduino, NRF24, Capteurs
-- **Intelligence Artificielle** - Computer Vision, Machine Learning
-- **Développement Web** - Full-stack avec des technologies modernes
-- **Analyse de Données** - Automatisation et optimisation
-- **Innovation** - Connecter le hardware et le software
 
 <br clear="right"/>
 
 ---
 
-## Technologies & Outils
-
-### Langages de Programmation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,php,javascript,dotnet,angular" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,php,react,angular,dotnet" />
 </p>
 
-### Frameworks & Plateformes
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-### Électronique & Composants
 <p align="center">
-  <img src="https://img.shields.io/badge/NRF24L01-00C4CC?style=for-the-badge&logo=wifi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MPU6050-FF6B35?style=for-the-badge&logo=sparkfun&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESC_Motors-E34F26?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge&logo=adafruit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NRF24L01-00C4CC?style=for-the-badge&logo=wireless&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPU6050-FF6B35?style=for-the-badge&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brushless_Motors-E34F26?style=for-the-badge&logo=motor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge&logo=sensor&logoColor=white" />
 </p>
 
 ---
-
-## Statistiques GitHub
 
 <div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
 
-<div align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
 
 </div>
 
 ---
 
-<!-- ##  Projets Phares
-
-<div align="center">
-
-###  Systèmes Embarqués
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_1)
-
-###  Intelligence Artificielle
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_2)
-
-</div>
-
---- -->
-
-##  Domaines d'Expertise
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
       <br><b>Systèmes Embarqués</b>
-      <br>Arduino • NRF24 • Capteurs
+      <br>Arduino • NRF24 • MPU6050 • Motors
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
       <br><b>Intelligence Artificielle</b>
-      <br>OpenCV • Vision • ML
+      <br>OpenCV • Computer Vision • ML
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
       <br><b>Développement Web</b>
-      <br>Full-stack • API • Frontend
+      <br>React • Angular • .NET • PHP
     </td>
   </tr>
 </table>
 
 ---
-
-##  Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/TON_USERNAME/Tsiky1107/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-##  Trophées GitHub
 
 <div align="center">
   
@@ -145,8 +101,6 @@ me.say_hi()
 
 ---
 
-##  Citation Préférée
-
 <div align="center">
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Understand+deeply.+Build+practically.+Improve+constantly.&author=Tsiky+A.+Ravalison" />
@@ -155,27 +109,12 @@ me.say_hi()
 
 ---
 
-##  Statistiques de Codage
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tsiky1107&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
----
-
-##  Restons en Contact !
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-###  N'hésitez pas à me contacter pour :
- Opportunités de stage  
- Projets collaboratifs  
- Échanges techniques  
- Networking  
+### 💬 N'hésitez pas à me contacter pour :
+✨ Opportunités de stage • 🚀 Projets collaboratifs • 💡 Échanges techniques • 🤝 Networking
 
 <br>
 
@@ -187,8 +126,6 @@ me.say_hi()
 ---
 
 <div align="center">
-  
-###  Merci de votre visite !
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
