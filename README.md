@@ -34,25 +34,25 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 💡 Ce qui me passionne
-- 🔌 **Systèmes Embarqués** - Arduino, NRF24, Capteurs
-- 🤖 **Intelligence Artificielle** - Computer Vision, Machine Learning
-- 🌐 **Développement Web** - Full-stack avec des technologies modernes
-- 📊 **Analyse de Données** - Automatisation et optimisation
-- 🎯 **Innovation** - Connecter le hardware et le software
+### Ce qui me passionne
+- **Systèmes Embarqués** - Arduino, NRF24, Capteurs
+- **Intelligence Artificielle** - Computer Vision, Machine Learning
+- **Développement Web** - Full-stack avec des technologies modernes
+- **Analyse de Données** - Automatisation et optimisation
+- **Innovation** - Connecter le hardware et le software
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technologies & Outils
+## Technologies & Outils
 
-### 💻 Langages de Programmation
+### Langages de Programmation
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,php,javascript,dotnet,angular" />
 </p>
 
-### 🔧 Frameworks & Plateformes
+### Frameworks & Plateformes
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -61,7 +61,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-### ⚡ Électronique & Composants
+### Électronique & Composants
 <p align="center">
   <img src="https://img.shields.io/badge/NRF24L01-00C4CC?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/MPU6050-FF6B35?style=for-the-badge&logo=sparkfun&logoColor=white" />
@@ -71,19 +71,19 @@ me.say_hi()
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
 
 </div>
 
@@ -94,10 +94,10 @@ me.say_hi()
 <div align="center">
 
 ### 🎮 Systèmes Embarqués
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=NOM_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TON_USERNAME/NOM_REPO_1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_1)
 
 ### 🤖 Intelligence Artificielle
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=NOM_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TON_USERNAME/NOM_REPO_2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_2)
 
 </div>
 
@@ -131,7 +131,7 @@ me.say_hi()
 
 <div align="center">
   
-![Snake animation](https://github.com/TON_USERNAME/TON_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/TON_USERNAME/Tsiky1107/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -141,7 +141,7 @@ me.say_hi()
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Tsiky1107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -161,7 +161,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TON_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tsiky1107&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
@@ -194,6 +194,6 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
-![Visitor Count](https://profile-counter.glitch.me/TON_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Tsiky1107/count.svg)
 
 </div>
