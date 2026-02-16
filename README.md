@@ -29,50 +29,47 @@
 <br>
 
 <!-- ============================================ -->
-<!--         CYBERPUNK PROFILE SECTION           -->
+<!--         PROFILE OVERVIEW SECTION            -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## ⚡ SYSTEM.PROFILE
+## ⚡ PROFILE OVERVIEW
 
 <table>
 <tr>
 <td width="45%" align="left" valign="top">
 
-```js
-┌─────────────────────────────────────────┐
-│  PERSONAL CORE SYSTEM v2.1              │
-├─────────────────────────────────────────┤
-│                                         │
-│  > IDENTITY                             │
-│    ├─ Name: Tsiky Andriantia Ravalison │
-│    ├─ Role: Electronics Engineer        │
-│    ├─ Location: Madagascar 🇲🇬          │
-│    └─ Status: ACTIVE                    │
-│                                         │
-│  > MISSION                              │
-│    Building intelligent hardware        │
-│    solutions that bridge the physical   │
-│    and digital worlds                   │
-│                                         │
-│  > CURRENT_QUEST                        │
-│    Seeking internship opportunities     │
-│    in Electronics, IoT, or AI fields    │
-│                                         │
-│  > SPECIALIZATION                       │
-│    ├─ Embedded Systems                  │
-│    ├─ Computer Vision                   │
-│    ├─ IoT Architecture                  │
-│    └─ Full-Stack Development            │
-│                                         │
-└─────────────────────────────────────────┘
-```
+### About Me
+
+**Name:** Tsiky Andriantia Ravalison  
+**Role:** Electronics & AI Engineering Student  
+**Location:** Antananarivo, Madagascar  
+**Languages:** French, Malagasy, English  
+
+### Current Focus
+
+**Education:** Bachelor in Electronics, Computer Systems & Artificial Intelligence  
+**Specialization:** Embedded Systems + Computer Vision + IoT  
+**Status:** Actively seeking internship opportunities  
+
+### Mission
+
+Building intelligent hardware solutions that bridge the physical and digital worlds. Passionate about creating real-world applications that combine electronics, software, and artificial intelligence.
+
+### Core Strengths
+
+- Embedded Systems basics & Arduino
+- Computer Vision fundamentals
+- IoT concepts & wireless communication
+- Full-Stack web development (learning)
+- Hardware-Software integration projects
+- Eager to learn & problem-solve
 
 </td>
 <td width="55%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=⚡%20PERFORMANCE%20METRICS" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=GitHub%20Statistics" width="100%" />
 
 <br>
 
@@ -80,7 +77,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=⚡%20CODE%20DISTRIBUTION" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=Most%20Used%20Languages" width="100%" />
 
 </td>
 </tr>
@@ -94,98 +91,142 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!--         HOLOGRAPHIC SKILL MATRIX            -->
+<!--           TECHNICAL SKILLS SECTION          -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## 🔮 TECHNICAL ARSENAL
-
-<!-- MATRIX STYLE DISPLAY -->
+## 🔮 TECHNICAL SKILLS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ HARDWARE DOMAIN
+### Embedded Systems & Hardware
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,arduino" height="50"/>
 </p>
 
-#### Embedded Platforms
-```yaml
-Arduino:
-  ├─ Proficiency: ████████████ 95%
-  ├─ Experience: 3+ years
-  └─ Projects: 15+
+**Microcontroller Platforms**
+- Arduino (Uno, Nano, Mega) - Intermediate/Advanced
+- ESP32/ESP8266 - Basic
+- Familiar with AVR architecture
 
-NRF24L01+ Wireless:
-  ├─ Proficiency: ███████████░ 90%
-  ├─ Range: 100m+ tested
-  └─ Networks: Mesh topology
+**Wireless Communication**
+- NRF24L01+ (2.4GHz RF Module) - Intermediate
+- Working knowledge of wireless protocols
+- Experience with point-to-point communication
 
-MPU6050 (IMU):
-  ├─ Proficiency: ██████████░░ 85%
-  ├─ Features: DMP, Kalman filter
-  └─ Applications: Stabilization
+**Sensors & Components**
+- MPU6050 (6-Axis IMU) - Intermediate
+- ESC & Brushless Motor Control - Basic
+- Various Sensors (Temperature, Distance, PIR)
 
-ESC & Motors:
-  ├─ Proficiency: █████████░░░ 80%
-  ├─ Control: PWM, PID loops
-  └─ Power: 30A+ systems
-```
+**Electronics Skills**
+- Circuit Design & Analysis (basics)
+- RLC Circuit Simulation
+- Understanding of PCB layout
+- Basic Power Management
+- I2C, SPI, UART Protocols
 
-#### Electronics
-- Circuit Design & Analysis
-- Power Management Systems
-- Sensor Integration & Calibration
-- Communication Protocols (I2C, SPI, UART)
-- Signal Processing
+---
+
+### Programming Languages
+
+**C/C++** - Intermediate/Advanced
+- Embedded Systems Programming
+- Basic memory management
+- Arduino development
+- Learning advanced concepts
+
+**Python** - Intermediate
+- Computer Vision with OpenCV
+- Data Analysis basics
+- Automation scripts
+- Working with NumPy/Pandas
+
+**JavaScript/TypeScript** - Intermediate
+- Frontend development
+- Basic Node.js
+- Modern ES6+ features
+- Learning async patterns
+
+**PHP** - Basic/Intermediate
+- Backend development
+- Web applications
+- Basic API development
+
+**C#** - Basic/Intermediate
+- .NET Core basics
+- MVC pattern understanding
+- Learning OOP principles
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 SOFTWARE DOMAIN
+### AI & Computer Vision
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,cs,angular,dotnet,opencv&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,opencv" height="50"/>
 </p>
 
-#### Programming Languages
-```yaml
-C/C++:
-  ├─ Proficiency: ████████████ 95%
-  ├─ Focus: Embedded, Systems
-  └─ Style: MISRA compliant
+**Computer Vision Libraries**
+- OpenCV - Intermediate Level
+- Image Processing basics
+- Learning video processing
+- Working with feature detection
 
-Python:
-  ├─ Proficiency: ███████████░ 90%
-  ├─ Focus: AI/ML, Automation
-  └─ Libs: OpenCV, NumPy, Pandas
+**Machine Learning**
+- NumPy & Pandas - Basic/Intermediate
+- Scikit-Learn - Learning ML algorithms
+- Understanding model training
+- Data preprocessing basics
 
-JavaScript/TypeScript:
-  ├─ Proficiency: █████████░░░ 80%
-  ├─ Focus: Full-stack
-  └─ Frameworks: Angular, Node.js
+**CV Applications**
+- Basic shape recognition
+- Object detection (learning)
+- Image analysis projects
+- Pattern recognition basics
 
-PHP:
-  ├─ Proficiency: ████████░░░░ 75%
-  ├─ Focus: Backend, APIs
-  └─ Frameworks: Laravel basics
+---
 
-C#:
-  ├─ Proficiency: ████████░░░░ 70%
-  ├─ Focus: .NET Core MVC
-  └─ Pattern: Clean architecture
-```
+### Web Development
 
-#### Frameworks & Tools
-- Angular (SPA Development)
-- .NET Core (Web APIs)
-- OpenCV (Computer Vision)
-- Odoo (ERP Systems)
-- Git/GitHub (Version Control)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,php" height="50"/>
+</p>
+
+**Frontend Technologies**
+- Angular - Basic/Intermediate
+- TypeScript - Learning
+- HTML5 & CSS3 - Comfortable
+- Responsive design basics
+
+**Backend Frameworks**
+- .NET Core MVC - Basic understanding
+- Node.js - Learning server-side JS
+- PHP - Basic backend development
+
+**Database Systems**
+- PostgreSQL - Basic queries
+- SQL - Learning optimization
+- Understanding of relational DB
+
+**Development Tools**
+- Git & GitHub - Regular use
+- VSCode - Primary IDE
+- Linux (Ubuntu) - Learning environment
+- Basic API testing
+
+---
+
+### ERP & Business Systems
+
+**Odoo Framework**
+- Module Development
+- Custom Workflows
+- Business Logic Implementation
 
 </td>
 </tr>
@@ -193,24 +234,10 @@ C#:
 
 <br>
 
-### 🎯 AI & COMPUTER VISION
+### Complete Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Pandas-Proficient-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Active-667eea?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" />
-</p>
-
-**Core Competencies:** Image Processing • Shape Recognition • Object Detection • Feature Extraction • Pattern Analysis • Data Preprocessing • Model Training
-
-<br>
-
-### 🌐 DEVELOPMENT STACK
-
-<details open>
-<summary><b>💎 Click to view complete arsenal</b></summary>
+<details>
+<summary><b>Click to expand all technologies</b></summary>
 
 <br>
 
@@ -224,25 +251,29 @@ C#:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a2e)
 
-**Hardware & Embedded**
+**Hardware Platforms**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a2e)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1a2e)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=1a1a2e)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=1a1a2e)
 
-**Frontend Technologies**
+**Web Frameworks**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a2e)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
-
-**Backend & Databases**
-
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e)
+
+**AI & Data Science**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a1a2e)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e)
@@ -250,10 +281,9 @@ C#:
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
 
 </details>
 
@@ -265,14 +295,14 @@ C#:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!--         QUANTUM ANALYTICS ZONE              -->
+<!--           GITHUB ANALYTICS SECTION          -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## 📊 QUANTUM ANALYTICS
+## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH&hide_border=true&radius=20" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=Contribution%20Activity%20Graph&hide_border=true&radius=20" width="96%" />
 
 <br><br>
 
@@ -298,7 +328,6 @@ C#:
 
 <br>
 
-<!-- HOLOGRAPHIC TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=Tsiky1107&theme=discord&no-frame=true&no-bg=false&margin-w=5&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,Reviews,PullRequest" width="96%" />
 
 </div>
@@ -309,12 +338,12 @@ C#:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!--         HOLOGRAPHIC PROJECT SHOWCASE        -->
+<!--           PROJECT SHOWCASE SECTION          -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## 🚀 PROJECT MATRIX
+## 🚀 ACADEMIC PROJECTS
 
 </div>
 
@@ -322,114 +351,107 @@ C#:
 <tr>
 <td width="50%" valign="top">
 
-### 🔮 NRF24 Mesh Network
-**STATUS:** `PRODUCTION` | **COMPLEXITY:** `HIGH`
+### Wireless Communication with NRF24L01+
 
-Advanced wireless sensor network utilizing NRF24L01+ transceivers with custom mesh protocol implementation. Supports multi-hop routing and dynamic topology.
+**Technologies:** Arduino • C/C++ • NRF24L01+ • I2C
 
-```c
-// Network Architecture
-├─ Master Controller
-│  ├─ Data Aggregation
-│  ├─ Route Management
-│  └─ API Gateway
-├─ Sensor Nodes (10+)
-│  ├─ Temperature
-│  ├─ Humidity
-│  ├─ Motion (PIR)
-│  └─ Custom Sensors
-└─ Power Management
-   ├─ Sleep Modes
-   └─ Battery Monitor
-```
+Academic project exploring wireless communication between Arduino boards using NRF24L01+ RF modules.
 
-**Tech Stack:** `Arduino` `C/C++` `NRF24L01+` `I2C` `UART`
+**What I Built:**
+- Point-to-point wireless communication
+- Sensor data transmission (temperature, distance)
+- Basic acknowledgment system
+- Power-saving sleep modes
 
-**Achievements:**
-- Range: 120m+ in urban environment
-- Latency: <50ms per hop
-- Power: 6+ months on AA batteries
-- Nodes: Scalable to 50+ devices
+**What I Learned:**
+- RF module configuration and troubleshooting
+- Wireless protocol basics
+- Low-power design considerations
+- Multi-sensor integration
+
+**Status:** Course project completed, ongoing improvements
 
 ---
 
-### 🎯 Vision Recognition System
-**STATUS:** `ACTIVE` | **COMPLEXITY:** `MEDIUM`
+### Shape Detection with OpenCV
 
-Real-time computer vision system for automated shape detection and classification in agricultural field monitoring.
+**Technologies:** Python • OpenCV • NumPy
 
-```python
-# Pipeline Architecture
-Input → Preprocessing → Detection → Classification → Output
-  ↓         ↓              ↓             ↓             ↓
- Camera  Filtering    Contours      ML Model      Database
-         Threshold    Features      Decision      Analytics
-```
+Computer vision project for detecting and classifying basic geometric shapes in images.
 
-**Tech Stack:** `Python` `OpenCV` `NumPy` `Scikit-Learn`
+**What I Built:**
+- Image preprocessing pipeline
+- Contour detection system
+- Shape classification (circles, rectangles, triangles)
+- Basic GUI for testing
 
-**Features:**
-- Multi-shape detection (circles, rectangles, polygons)
-- Real-time processing (30+ FPS)
-- Accuracy: 94%+ on test set
-- Field-tested on 50+ hectares
+**What I Learned:**
+- Image processing fundamentals
+- OpenCV library usage
+- Algorithm optimization
+- Real-world application challenges
+
+**Status:** Academic project, tested on sample datasets
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Enterprise Web Platform
-**STATUS:** `DEPLOYED` | **COMPLEXITY:** `HIGH`
+### Student Management Web App
 
-Modern full-stack business application with Angular frontend and .NET Core backend. Enterprise-grade architecture with microservices pattern.
+**Technologies:** Angular • .NET Core • SQL Server
 
-```typescript
-// System Architecture
-┌─────────────────────────────────┐
-│     FRONTEND (Angular 15+)      │
-│  ├─ Reactive Components         │
-│  ├─ State Management (NgRx)     │
-│  ├─ Lazy Loading Modules        │
-│  └─ Material Design UI          │
-├─────────────────────────────────┤
-│   BACKEND (.NET Core 7)         │
-│  ├─ RESTful API                 │
-│  ├─ JWT Authentication          │
-│  ├─ Repository Pattern          │
-│  └─ Clean Architecture          │
-├─────────────────────────────────┤
-│   DATABASE (PostgreSQL)         │
-│  ├─ Normalized Schema           │
-│  ├─ Indexing Strategy           │
-│  └─ Migration System            │
-└─────────────────────────────────┘
-```
+Full-stack web application developed as part of coursework, implementing a simple student management system.
 
-**Tech Stack:** `Angular` `.NET Core` `PostgreSQL` `Docker`
+**What I Built:**
+- Angular frontend with forms and tables
+- .NET Core Web API backend
+- CRUD operations for student records
+- Basic authentication system
 
-**Features:**
-- Multi-tenant architecture
-- Role-based access control (RBAC)
-- Real-time notifications (SignalR)
-- Comprehensive audit logging
+**What I Learned:**
+- Frontend-backend integration
+- RESTful API design
+- Database management
+- MVC architecture pattern
+
+**Status:** Course project completed
 
 ---
 
-### 🎮 IMU Stabilization System
-**STATUS:** `PROTOTYPE` | **COMPLEXITY:** `ADVANCED`
+### Motor Control with IMU Feedback
 
-Advanced stabilization platform using MPU6050 IMU with complementary filter and PID control for camera/payload stabilization.
+**Technologies:** Arduino • MPU6050 • ESC
 
-**Tech Stack:** `Arduino` `MPU6050` `ESC` `Brushless Motors`
+Learning project focused on reading IMU sensor data and controlling brushless motors with ESC.
 
-**Highlights:**
-- 3-axis stabilization
-- <1° accuracy
-- PID auto-tuning
-- 200Hz update rate
+**What I Built:**
+- MPU6050 sensor reading and calibration
+- Basic PID control implementation
+- ESC signal generation
+- Serial monitoring interface
+
+**What I Learned:**
+- IMU sensor data interpretation
+- PID control basics
+- Motor control fundamentals
+- Real-time system debugging
+
+**Status:** Prototype stage, learning project
 
 </td>
 </tr>
 </table>
+
+<br>
+
+### Other Learning Projects
+
+- **RLC Circuit Simulator** - Circuit analysis tool built in Python
+- **Temperature Monitoring System** - Arduino with multiple sensors and LCD display
+- **Simple REST API** - PHP backend for mobile app class project
+- **Odoo Module Customization** - Modified existing ERP modules during internship preparation
+
+*Most projects are available on GitHub with documentation and learning notes*
 
 <br>
 
@@ -437,77 +459,72 @@ Advanced stabilization platform using MPU6050 IMU with complementary filter and 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!--         CYBERPUNK CONTACT ZONE              -->
+<!--             CONTACT SECTION                 -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## 💫 ESTABLISH CONNECTION
+## 💫 LET'S CONNECT
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 📡 COMMUNICATION CHANNELS
+### Contact Information
 
 <a href="mailto:tsikyandriantia@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-SECURE_LINK-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/EMAIL-tsikyandriantia@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <a href="https://wa.me/261376236878">
-  <img src="https://img.shields.io/badge/WHATSAPP-INSTANT_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/WHATSAPP-+261_37_62_36_878-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <a href="https://github.com/Tsiky1107">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GITHUB-@Tsiky1107-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <a href="https://linkedin.com/in/TON_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <br><br>
 
-```yaml
-CONTACT_INFO:
-  email: tsikyandriantia@gmail.com
-  phone: +261 37 62 36 878
-  location: Antananarivo, Madagascar
-  timezone: UTC+3
-  availability: IMMEDIATE
-  remote: AVAILABLE
-```
+**Location:** Antananarivo, Madagascar  
+**Timezone:** UTC+3 (East Africa Time)  
+**Languages:** French, Malagasy, English  
+**Availability:** Immediate
 
 </td>
 <td width="50%" align="center">
 
-### 🎯 SEEKING OPPORTUNITIES
+### Seeking Opportunities
 
 <img src="https://img.shields.io/badge/INTERNSHIP-ACTIVELY_SEEKING-f093fb?style=for-the-badge&labelColor=1a1a2e" />
 
-**Target Domains:**
-- Electronics & Embedded Systems
-- IoT Development & Architecture
-- Computer Vision & AI/ML
-- Full-Stack Development
-- Robotics & Automation
+<br><br>
+
+**Target Positions:**
+- Electronics & Embedded Systems Engineer
+- IoT Developer & Architect
+- Computer Vision Engineer
+- AI/ML Developer
+- Full-Stack Developer
 
 **What I Offer:**
-```diff
-+ Hands-on hardware expertise
-+ Strong software development skills
-+ Problem-solving mindset
-+ Fast learner & adaptable
-+ Bilingual (French/English)
-+ Team collaboration experience
-```
+- Solid foundation in hardware and software
+- Hands-on project experience from coursework
+- Quick learner with strong motivation
+- Growing knowledge in IoT and AI
+- Good communication skills (French/English)
+- Enthusiastic about new technologies
 
-**Preferred:**
-- Madagascar-based positions
-- Remote internships
+**Preferences:**
+- Madagascar-based or remote positions
 - 3-6 months duration
-- Hands-on technical work
-- Innovative projects
+- Hands-on technical projects
+- Innovative technology companies
+- Learning-focused environment
 
 </td>
 </tr>
@@ -515,19 +532,19 @@ CONTACT_INFO:
 
 <br>
 
-### 🌟 COLLABORATION INTERESTS
+### Areas of Interest
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
 <b>IoT Solutions</b><br>
-<sub>Smart devices & networks</sub>
+<sub>Smart devices & sensor networks</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<b>AI Applications</b><br>
-<sub>Vision & ML systems</sub>
+<b>AI & Vision</b><br>
+<sub>Computer vision systems</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
@@ -536,8 +553,8 @@ CONTACT_INFO:
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
-<b>Web Apps</b><br>
-<sub>Modern platforms</sub>
+<b>Web Platforms</b><br>
+<sub>Full-stack applications</sub>
 </td>
 </tr>
 </table>
@@ -546,19 +563,16 @@ CONTACT_INFO:
 
 <br>
 
-<!-- FINAL EPIC FOOTER -->
+<!-- FINAL FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 <br>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to invent it"        ║
-║                                        - Alan Kay             ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+> **"The best way to predict the future is to invent it"** — Alan Kay
+
+<br>
 
 <sub>⭐ Star my repositories if you find them interesting • 💬 Open to collaboration • 🚀 Always learning</sub>
 
