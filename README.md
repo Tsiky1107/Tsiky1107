@@ -11,10 +11,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🌍_Madagascar-Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎓_ISPM_Antsobolo-Electronics_&_AI-764ba2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/💻_42_Network-Alumni-f093fb?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🚀_Status-Seeking_Internship-success?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Location-Madagascar_Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Education-ISPM_Antsobolo-764ba2?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/42_Network-Alumni-f093fb?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Status-Seeking_Internship-success?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
@@ -35,18 +35,18 @@
 **Tsiky Andriantia Ravalison**  
 Electronics & AI Student | Software Developer
 
-📍 Antananarivo, Madagascar  
-🗣️ French, Malagasy, English  
-✉️ tsikyandriantia@gmail.com  
-📱 +261 37 62 36 878
+Location: Antananarivo, Madagascar  
+Languages: French, Malagasy, English  
+Email: tsikyandriantia@gmail.com  
+Phone: +261 37 62 36 878
 
 ### Education
 
-**🎓 ISPM Antsobolo**  
+**ISPM Antsobolo**  
 Bachelor in Electronics, Computer Systems & AI  
 *Focus:* Embedded Systems, Computer Vision, IoT
 
-**💻 42 Antananarivo**  
+**42 Antananarivo**  
 Peer-to-peer Software Engineering  
 *Alumni - Completed Common Core*
 
@@ -70,13 +70,13 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&icon_color=667eea&text_color=c9d1d9" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0d1117&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=1a1a2e&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -230,7 +230,7 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Wireless Sensor Network
+### Wireless Sensor Network
 **Arduino • C/C++ • NRF24L01+**
 
 Wireless communication system between multiple Arduino nodes using NRF24L01+ RF modules for sensor data transmission.
@@ -242,7 +242,7 @@ Wireless communication system between multiple Arduino nodes using NRF24L01+ RF 
 
 ---
 
-### 👁️ Shape Detection System
+### Shape Detection System
 **Python • OpenCV • NumPy**
 
 Computer vision application for detecting and classifying geometric shapes in images using OpenCV.
@@ -255,7 +255,7 @@ Computer vision application for detecting and classifying geometric shapes in im
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Student Management App
+### Student Management App
 **Angular • .NET Core • PostgreSQL**
 
 Full-stack web application with Angular frontend and .NET Core backend for managing student records.
@@ -267,7 +267,7 @@ Full-stack web application with Angular frontend and .NET Core backend for manag
 
 ---
 
-### 🎮 IMU Stabilization System
+### IMU Stabilization System
 **Arduino • MPU6050 • ESC**
 
 Motion stabilization platform using IMU sensor feedback and PID control for brushless motor control.
@@ -312,12 +312,12 @@ Motion stabilization platform using IMU sensor feedback and PID control for brus
 
 ### What I Bring
 
-✓ Solid hardware & software foundation  
-✓ Hands-on project experience  
-✓ 42 peer-learning methodology  
-✓ Autonomous & quick learner  
-✓ Problem-solving mindset  
-✓ Team collaboration skills
+- Solid hardware & software foundation  
+- Hands-on project experience  
+- 42 peer-learning methodology  
+- Autonomous & quick learner  
+- Problem-solving mindset  
+- Team collaboration skills
 
 </td>
 <td width="50%" align="center">
