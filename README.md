@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis Tsiky Andriantia Ravalison
+#  Salut, je suis Tsiky Andriantia Ravalison
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Étudiant+en+Électronique+%26+IA;Passionné+par+l'IoT+et+les+Systèmes+Embarqués;Constructeur+de+Solutions+Technologiques" alt="Typing SVG" />
 
@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 À Propos de Moi
+##  À Propos de Moi
 
 ```python
 class Tsiky:
     def __init__(self):
         self.name = "Tsiky Andriantia Ravalison"
         self.role = "Electronics & AI Student"
-        self.location = "Madagascar 🌍"
+        self.location = "Madagascar"
         self.passions = ["Embedded Systems", "AI/ML", "IoT", "Automation"]
         self.currently_seeking = "Internship Opportunity"
     
@@ -89,21 +89,21 @@ me.say_hi()
 
 ---
 
-## 🏆 Projets Phares
+<!-- ##  Projets Phares
 
 <div align="center">
 
-### 🎮 Systèmes Embarqués
+###  Systèmes Embarqués
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_1)
 
-### 🤖 Intelligence Artificielle
+###  Intelligence Artificielle
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsiky1107&repo=NOM_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Tsiky1107/NOM_REPO_2)
 
 </div>
 
----
+--- -->
 
-## 🎯 Domaines d'Expertise
+##  Domaines d'Expertise
 
 <table align="center">
   <tr>
@@ -127,7 +127,7 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   
@@ -137,7 +137,7 @@ me.say_hi()
 
 ---
 
-## 🌟 Trophées GitHub
+##  Trophées GitHub
 
 <div align="center">
   
@@ -147,7 +147,7 @@ me.say_hi()
 
 ---
 
-## 💭 Citation Préférée
+##  Citation Préférée
 
 <div align="center">
   
@@ -157,7 +157,7 @@ me.say_hi()
 
 ---
 
-## 🔥 Statistiques de Codage
+##  Statistiques de Codage
 
 <div align="center">
 
@@ -167,17 +167,17 @@ me.say_hi()
 
 ---
 
-## 📫 Restons en Contact !
+##  Restons en Contact !
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-### 💬 N'hésitez pas à me contacter pour :
-✨ Opportunités de stage  
-🚀 Projets collaboratifs  
-💡 Échanges techniques  
-🤝 Networking  
+###  N'hésitez pas à me contacter pour :
+ Opportunités de stage  
+ Projets collaboratifs  
+ Échanges techniques  
+ Networking  
 
 <br>
 
@@ -190,7 +190,7 @@ me.say_hi()
 
 <div align="center">
   
-### 🌊 Merci de votre visite !
+###  Merci de votre visite !
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
