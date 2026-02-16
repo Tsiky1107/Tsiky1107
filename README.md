@@ -23,6 +23,8 @@ I focus on understanding systems deeply, not only using them.
 
 ---
 
+![Snake animation](https://github.com/Tsiky1107/Tsiky1107/blob/output/github-contribution-grid-snake.svg)
+
 ## Technical Skills
 
 ### Programming & Development
