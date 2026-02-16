@@ -1,8 +1,4 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=Electronics+Student;AI+Enthusiast;Embedded+Systems+Builder;Future+Engineer" />
-</p>
-# Tsiky Andriantia Ravalison  
+# Tsiky Andriantia Ravalison
 
 Bachelor Student in Electronics, Computer Systems & Artificial Intelligence  
 Madagascar  
@@ -13,83 +9,43 @@ Madagascar
 
 I am passionate about building real-world technological solutions by connecting hardware and software systems.
 
-- Development of embedded systems (Arduino, NRF24, sensors)
-- Exploration of Artificial Intelligence and Computer Vision
-- Full-stack web application development
-- Data analysis and automation
-- Currently seeking an internship opportunity
-
-I focus on understanding systems deeply, not only using them.
+- Embedded systems (Arduino, NRF24, sensors)
+- Artificial Intelligence and Computer Vision
+- Full-stack web development
+- Data analysis & automation
+- Seeking an internship opportunity
 
 ---
 
-![Snake animation](https://github.com/Tsiky1107/Tsiky1107/blob/output/github-contribution-grid-snake.svg)
+## Skills
+
+- **Programming:** C, PHP, Python, .NET Core MVC, JavaScript, Angular, Odoo  
+- **Embedded:** Arduino, NRF24L01, MPU6050, ESC / Brushless Motors, RLC Simulation  
+- **AI / Vision:** OpenCV, Shape Recognition, Field Image Analysis  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight)  
+
+---
+
+## Typing Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=Electronics+Student;AI+Enthusiast;Embedded+Systems+Builder;Future+Engineer" />
 </p>
-
-
-## Technical Skills
-
-### Programming & Development
-- C
-- PHP
-- Python
-- .NET Core MVC
-- JavaScript
-- Angular
-- Odoo Framework
-
-### Embedded Systems & Electronics
-- Arduino
-- NRF24L01
-- MPU6050
-- ESC / Brushless Motors
-- RLC Circuit Simulation
-
-### Artificial Intelligence & Vision
-- OpenCV
-- Shape Recognition
-- Field Image Analysis
-- Descriptive Statistics with Python
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=default)
-
----
-
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107E&theme=github)
-
----
-
-## Areas of Interest
-
-- Intelligent Embedded Systems  
-- Artificial Intelligence Applications  
-- Wireless Communication Systems  
-- Scalable Web Applications  
-- Data-Driven Systems  
 
 ---
 
 ## Contact
 
 Email: tsikyandriantia@gmail.com  
-Phone: +261 34 97 664 49
+Phone: +261 37 62 36 878  
 
 ---
 
-## Professional Statement
-
-"Understand deeply. Build practically. Improve constantly."
+> "Understand deeply. Build practically. Improve constantly."
