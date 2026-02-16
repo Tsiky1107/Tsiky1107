@@ -74,18 +74,9 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 
 <img src="https://streak-stats.demolab.com/?user=Tsiky1107&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&border_radius=12" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&hide_border=true&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&hide_border=true&radius=12&custom_title=Annual%20Contribution%20Graph" width="100%" />
 
-<table width="100%">
-<tr>
-<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&border_radius=12" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsiky1107&theme=midnight_purple&utcOffset=3" width="100%" />
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
