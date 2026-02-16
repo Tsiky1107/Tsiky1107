@@ -70,13 +70,13 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&border_radius=12&ring_color=f093fb" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&border_radius=12" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&hide_border=true&radius=12&custom_title=Annual%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=1a1a2e&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&border_radius=12&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0" width="100%" />
 
 </td>
 </tr>
