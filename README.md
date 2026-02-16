@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/🌍_Madagascar-Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e&borderRadius=10" />
   <img src="https://img.shields.io/badge/🎓_Electronics_&_AI-Student-764ba2?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/🚀_Available_for-Internship-f093fb?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://komarev.com/ghpvc/?username=Tsiky1107&style=for-the-badge&color=667eea&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=667eea&labelColor=1a1a2e" />
 </p>
 
 <!-- GLOWING DIVIDER -->
@@ -47,11 +47,21 @@
 **Location:** Antananarivo, Madagascar  
 **Languages:** French, Malagasy, English  
 
+### Education
+
+**ISPM Antsobolo**  
+Bachelor in Electronics, Computer Systems & Artificial Intelligence  
+*Current* - Focus on embedded systems and computer vision
+
+**42 Antananarivo**  
+Software Engineering Program  
+*Alumni* - Peer-to-peer learning, algorithmic thinking, project-based education
+
 ### Current Focus
 
-**Education:** Bachelor in Electronics, Computer Systems & Artificial Intelligence  
 **Specialization:** Embedded Systems + Computer Vision + IoT  
 **Status:** Actively seeking internship opportunities  
+**Interests:** Hardware-software integration, wireless systems, AI applications  
 
 ### Mission
 
@@ -63,21 +73,22 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 - Computer Vision fundamentals
 - IoT concepts & wireless communication
 - Full-Stack web development (learning)
+- Algorithmic thinking & problem-solving (42)
 - Hardware-Software integration projects
-- Eager to learn & problem-solve
+- Eager to learn & adaptable
 
 </td>
 <td width="55%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=GitHub%20Statistics" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&icon_color=667eea&text_color=e0e0e0&ring_color=f093fb&border_radius=15&custom_title=GitHub%20Statistics" width="100%" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Tsiky1107&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&sideLabels=667eea&dates=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&border_radius=15" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=TON_USERNAME&theme=midnight-purple&hide_border=true&background=1a1a2e&ring=f093fb&fire=667eea&currStreakLabel=f093fb&sideLabels=667eea&dates=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&border_radius=15" width="100%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=Most%20Used%20Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=f093fb&text_color=e0e0e0&langs_count=8&hide=html,css&border_radius=15&custom_title=Most%20Used%20Languages" width="100%" />
 
 </td>
 </tr>
@@ -191,14 +202,15 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 
 ---
 
-### Web Development
+### Web & Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,php" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,dotnet,php" height="50"/>
 </p>
 
 **Frontend Technologies**
 - Angular - Basic/Intermediate
+- React - Learning (components, hooks)
 - TypeScript - Learning
 - HTML5 & CSS3 - Comfortable
 - Responsive design basics
@@ -260,6 +272,7 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 **Web Frameworks**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
@@ -302,7 +315,7 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=Contribution%20Activity%20Graph&hide_border=true&radius=20" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=1a1a2e&color=f093fb&line=667eea&point=ffffff&area=true&area_color=764ba2&title_color=f093fb&custom_title=Contribution%20Activity%20Graph&hide_border=true&radius=20" width="96%" />
 
 <br><br>
 
@@ -310,17 +323,17 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 <tr>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsiky1107&theme=midnight_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TON_USERNAME&theme=midnight_purple" width="100%" />
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsiky1107&theme=midnight_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TON_USERNAME&theme=midnight_purple" width="100%" />
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsiky1107&theme=midnight_purple&utcOffset=3" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TON_USERNAME&theme=midnight_purple&utcOffset=3" width="100%" />
 
 </td>
 </tr>
@@ -328,7 +341,7 @@ Building intelligent hardware solutions that bridge the physical and digital wor
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tsiky1107&theme=discord&no-frame=true&no-bg=false&margin-w=5&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,Reviews,PullRequest" width="96%" />
+<img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=discord&no-frame=true&no-bg=false&margin-w=5&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,Reviews,PullRequest" width="96%" />
 
 </div>
 
@@ -480,8 +493,8 @@ Learning project focused on reading IMU sensor data and controlling brushless mo
   <img src="https://img.shields.io/badge/WHATSAPP-+261_37_62_36_878-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://github.com/Tsiky1107">
-  <img src="https://img.shields.io/badge/GITHUB-@Tsiky1107-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+<a href="https://github.com/TON_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-@TON__USERNAME-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <a href="https://linkedin.com/in/TON_LINKEDIN">
@@ -536,22 +549,27 @@ Learning project focused on reading IMU sensor data and controlling brushless mo
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<b>IoT Solutions</b><br>
-<sub>Smart devices & sensor networks</sub>
+<b>IoT & Embedded</b><br>
+<sub>Smart devices & sensors</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 <b>AI & Vision</b><br>
 <sub>Computer vision systems</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 <b>Robotics</b><br>
 <sub>Autonomous systems</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<b>Algorithms</b><br>
+<sub>Data structures & optimization</sub>
+</td>
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
 <b>Web Platforms</b><br>
 <sub>Full-stack applications</sub>
@@ -578,6 +596,6 @@ Learning project focused on reading IMU sensor data and controlling brushless mo
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tsiky1107&style=for-the-badge&color=667eea&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=667eea&labelColor=1a1a2e)
 
 </div>
