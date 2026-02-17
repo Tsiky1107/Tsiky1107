@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Location-Madagascar_Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Education-ISPM_Antsobolo-764ba2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/42_Network-Alumni-f093fb?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/42_Network-Cadet-f093fb?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Status-Seeking_Internship-success?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
