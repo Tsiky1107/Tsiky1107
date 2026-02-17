@@ -373,7 +373,9 @@ Motion stabilization platform using IMU sensor feedback and PID control for brus
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### Target Positions
 
@@ -382,9 +384,15 @@ Motion stabilization platform using IMU sensor feedback and PID control for brus
 **Computer Vision / AI**  
 **Full-Stack Development**
 
+<br>
+
 **Duration:** 3-6 months  
 **Location:** Madagascar or Remote  
 **Availability:** Immediate
+
+</div>
+
+<br>
 
 ### What I Bring
 
