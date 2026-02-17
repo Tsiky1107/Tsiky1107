@@ -46,16 +46,6 @@
 
 ## About Me
 
-**Name:** Tsiky Andriantia Ravalison  
-**Role:** Electronics & AI Engineering Student  
-**Location:** Antananarivo, Madagascar  
-**Languages:** French • Malagasy • English  
-
-**Email:** tsikyandriantia@gmail.com  
-**Phone:** +261 37 62 36 878
-
----
-
 ### Education
 
 **ISPM Antsobolo**  
