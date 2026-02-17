@@ -11,6 +11,20 @@
 
 <br>
 
+<!-- SOCIAL PROOF BADGES -->
+<p>
+  <a href="https://github.com/Tsiky1107?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tsiky1107?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <a href="https://github.com/Tsiky1107?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repos-15+-667eea?style=flat-square&logo=github" alt="Repos">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tsiky1107&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20AI-f093fb?style=flat-square" alt="Focus">
+</p>
+
+<br>
+
 <img src="https://img.shields.io/badge/Location-Madagascar_Antananarivo-667eea?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Education-ISPM_Antsobolo-764ba2?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/42_Network-Alumni-f093fb?style=for-the-badge&labelColor=1a1a2e" />
@@ -73,6 +87,14 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 <img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&icon_color=667eea&text_color=c9d1d9" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0d1117&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
+
+<br>
+
+**Contribution Heatmap**
+
+<img src="https://ghchart.rshah.org/667eea/Tsiky1107" alt="GitHub Chart" width="100%" />
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" />
 
@@ -179,9 +201,11 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 </table>
 
 <details>
-<summary><b>📦 All Technologies</b></summary>
+<summary><b>Click to expand full stack</b></summary>
 
 <br>
+
+**Core Languages**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=1a1a2e)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
@@ -191,24 +215,40 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a2e)
 
+**Hardware Platforms**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a2e)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1a2e)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=1a1a2e)
+
+**Web Frameworks**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a2e)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e)
+
+**AI & Data Science**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a1a2e)
+
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
 
 </details>
 
