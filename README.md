@@ -81,8 +81,6 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&icon_color=667eea&text_color=c9d1d9" width="100%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0d1117&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
 
 <br>
@@ -90,8 +88,6 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 **Contribution Activity**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=365%20Days%20Contribution%20History" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
