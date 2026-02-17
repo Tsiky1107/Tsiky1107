@@ -54,7 +54,7 @@ Currently pursuing degree with focus on embedded systems and computer vision
 
 **42 Antananarivo**  
 Peer-to-peer Software Engineering Program  
-Alumni - Completed Common Core curriculum
+Cadet - Completing Common Core curriculum
 
 ---
 
