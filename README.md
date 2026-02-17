@@ -46,25 +46,30 @@
 
 ## About Me
 
-**Tsiky Andriantia Ravalison**  
-Electronics & AI Student | Software Developer
+**Name:** Tsiky Andriantia Ravalison  
+**Role:** Electronics & AI Engineering Student  
+**Location:** Antananarivo, Madagascar  
+**Languages:** French • Malagasy • English  
 
-Location: Antananarivo, Madagascar  
-Languages: French, Malagasy, English  
-Email: tsikyandriantia@gmail.com  
-Phone: +261 37 62 36 878
+**Email:** tsikyandriantia@gmail.com  
+**Phone:** +261 37 62 36 878
+
+---
 
 ### Education
 
 **ISPM Antsobolo**  
-Bachelor in Electronics, Computer Systems & AI  
-*Focus:* Embedded Systems, Computer Vision, IoT
+Bachelor in Electronics, Computer Systems & Artificial Intelligence  
+Currently pursuing degree with focus on embedded systems and computer vision
 
 **42 Antananarivo**  
-Peer-to-peer Software Engineering  
-*Alumni - Completed Common Core*
+Peer-to-peer Software Engineering Program  
+Alumni - Completed Common Core curriculum
 
-**Key 42 Skills:**
+---
+
+### Key 42 Skills
+
 - C Programming & Low-level Systems
 - Algorithms & Data Structures
 - Unix/Linux System Administration
@@ -73,11 +78,13 @@ Peer-to-peer Software Engineering
 - Peer Code Review & Team Projects
 - Shell Scripting & Automation
 
-### What I Do
+---
+
+### Mission
 
 Building intelligent hardware solutions that bridge electronics and software. From wireless sensor networks to computer vision applications, I enjoy solving real-world problems with technology.
 
-Currently seeking internship opportunities to apply and expand my skills in embedded systems, IoT, or software development.
+**Currently seeking internship opportunities** to apply and expand my skills in embedded systems, IoT, or software development.
 
 </td>
 <td width="65%" valign="top">
