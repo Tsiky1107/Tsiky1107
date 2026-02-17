@@ -90,13 +90,9 @@ Currently seeking internship opportunities to apply and expand my skills in embe
 
 <br>
 
-**Contribution Heatmap**
+**Contribution Activity**
 
-<img src="https://ghchart.rshah.org/667eea/Tsiky1107" alt="GitHub Chart" width="100%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=365%20Days%20Contribution%20History" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9" width="100%" />
 
