@@ -134,6 +134,7 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 <img height="50" src="https://skillicons.dev/icons?i=c,arduino" />
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/Arduino-Intermediate-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=000000" />
 
@@ -161,6 +162,7 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 
 <img height="50" src="https://skillicons.dev/icons?i=python,js,php" />
 
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/C-42_Trained-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=000000" />
@@ -190,6 +192,7 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 <img height="50" src="https://skillicons.dev/icons?i=angular,react,dotnet" />
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/Angular-Basic-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=000000" />
 
@@ -218,12 +221,14 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 <img height="50" src="https://skillicons.dev/icons?i=opencv,python" />
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=000000" />
 
 <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=000000" />
 
 <img src="https://img.shields.io/badge/Scikit--Learn-Basic-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=000000" />
+
 <br>
 </div>
 
