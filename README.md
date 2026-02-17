@@ -224,7 +224,6 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=000000" />
 
 <img src="https://img.shields.io/badge/Scikit--Learn-Basic-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=000000" />
-
 <br>
 </div>
 
