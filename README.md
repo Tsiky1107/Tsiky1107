@@ -119,20 +119,31 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 
 ## Technical Skills
 
-</div>
+<br>
 
+</div>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" valign="top">
+
+<div align="center">
 
 ### Hardware & Embedded
 
 <img height="50" src="https://skillicons.dev/icons?i=c,arduino" />
 
+<br>
+
 <img src="https://img.shields.io/badge/Arduino-Intermediate-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/NRF24L01-Learning-667eea?style=flat-square&logo=wifi&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/MPU6050-Basic-f093fb?style=flat-square&logo=sparkfun&logoColor=white&labelColor=000000" />
+
+</div>
+
+<br>
 
 **Skills:**
 - Embedded C Programming
@@ -141,15 +152,25 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 - Circuit Design
 
 </td>
-<td width="25%" align="center">
+<td width="25%" valign="top">
+
+<div align="center">
 
 ### Software Development
 
 <img height="50" src="https://skillicons.dev/icons?i=python,js,php" />
 
+<br>
+
 <img src="https://img.shields.io/badge/C-42_Trained-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=000000" />
+
+</div>
+
+<br>
 
 **Skills:**
 - Algorithms & Data Structures
@@ -158,15 +179,25 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 - Shell Scripting
 
 </td>
-<td width="25%" align="center">
+<td width="25%" valign="top">
+
+<div align="center">
 
 ### Web Development
 
 <img height="50" src="https://skillicons.dev/icons?i=angular,react,dotnet" />
 
+<br>
+
 <img src="https://img.shields.io/badge/Angular-Basic-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/.NET_Core-Familiar-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=000000" />
+
+</div>
+
+<br>
 
 **Skills:**
 - Frontend Development
@@ -175,15 +206,25 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 - Full-Stack Architecture
 
 </td>
-<td width="25%" align="center">
+<td width="25%" valign="top">
+
+<div align="center">
 
 ### AI & Computer Vision
 
 <img height="50" src="https://skillicons.dev/icons?i=opencv,python" />
 
+<br>
+
 <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=000000" />
+
 <img src="https://img.shields.io/badge/Scikit--Learn-Basic-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=000000" />
+
+</div>
+
+<br>
 
 **Skills:**
 - Image Processing
