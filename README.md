@@ -428,7 +428,7 @@ Motion stabilization platform using IMU sensor feedback and PID control for brus
 <img src="https://img.shields.io/badge/GitHub-Tsiky1107-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="www.linkedin.com/in/tsiky-andriantia-ravalison">
+<a href="https://www.linkedin.com/in/tsiky-andriantia-ravalison">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 
