@@ -46,14 +46,25 @@
 
 ## About Me
 
+**Name:** Tsiky Andriantia Ravalison  
+**Role:** Electronics & AI Engineering Student  
+**Location:** Antananarivo, Madagascar  
+**Languages:** French • Malagasy • English  
+
+**Email:** tsikyandriantia@gmail.com  
+**Phone:** +261 37 62 36 878
+
+---
+
 ### Education
 
 **ISPM Antsobolo**  
 Bachelor in Electronics, Computer Systems & Artificial Intelligence  
+Currently pursuing degree with focus on embedded systems and computer vision
 
 **42 Antananarivo**  
 Peer-to-peer Software Engineering Program  
-Cadet - Completing Common Core curriculum
+Alumni - Completed Common Core curriculum
 
 ---
 
@@ -80,6 +91,8 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 
 ## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiky1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&icon_color=667eea&text_color=c9d1d9" width="100%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiky1107&theme=tokyonight&hide_border=true&background=0d1117&stroke=f093fb&ring=f093fb&fire=667eea&currStreakLabel=f093fb" width="100%" />
 
 <br>
@@ -87,6 +100,8 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 **Contribution Activity**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiky1107&theme=tokyo-night&bg_color=0d1117&color=f093fb&line=667eea&point=FFFFFF&area=true&hide_border=true&custom_title=365%20Days%20Contribution%20History" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiky1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -106,83 +121,75 @@ Building intelligent hardware solutions that bridge electronics and software. Fr
 
 </div>
 
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" align="center">
 
 ### Hardware & Embedded
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,arduino" height="50"/>
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=c,arduino" />
 
-**Platforms**
-- Arduino (Uno, Nano, Mega)
-- ESP32/ESP8266
-- AVR Microcontrollers
+<img src="https://img.shields.io/badge/Arduino-Intermediate-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/NRF24L01-Learning-667eea?style=flat-square&logo=wifi&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/MPU6050-Basic-f093fb?style=flat-square&logo=sparkfun&logoColor=white&labelColor=000000" />
 
-**Components**
-- NRF24L01+ Wireless Modules
-- MPU6050 IMU Sensors
-- ESC & Brushless Motors
-- Various Sensors (Temp, Distance, PIR)
-
-**Skills**
+**Skills:**
 - Embedded C Programming
-- I2C, SPI, UART Protocols
-- Circuit Design & Analysis
-- Power Management
+- Wireless Communication
+- Sensor Integration
+- Circuit Design
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" align="center">
 
 ### Software Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,php,cs" height="50"/>
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=python,js,php" />
 
-**Languages**
-- **C/C++** - Systems & Embedded
-- **Python** - AI/ML & Automation
-- **JavaScript** - Frontend & Node.js
-- **PHP** - Backend Development
-- **C#** - .NET Applications
+<img src="https://img.shields.io/badge/C-42_Trained-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=000000" />
 
-**From 42 Training**
-- Algorithm Design & Optimization
-- Data Structures Implementation
-- Memory Management
-- Code Quality & Norminette
-- Unix System Programming
-- Shell Scripting (Bash)
+**Skills:**
+- Algorithms & Data Structures
+- Systems Programming
+- Git & Version Control
+- Shell Scripting
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" align="center">
 
-### Web & AI
+### Web Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=angular,react,opencv,dotnet" height="50"/>
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=angular,react,dotnet" />
 
-**Frontend**
-- Angular (SPA)
-- React (Components, Hooks)
-- HTML5, CSS3
-- Responsive Design
+<img src="https://img.shields.io/badge/Angular-Basic-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/.NET_Core-Familiar-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=000000" />
 
-**Backend**
-- .NET Core MVC
-- Node.js
-- RESTful APIs
-- PostgreSQL, MongoDB
+**Skills:**
+- Frontend Development
+- RESTful API Design
+- Database Management
+- Full-Stack Architecture
 
-**AI & Vision**
-- OpenCV (Image Processing)
-- NumPy, Pandas
-- Scikit-Learn
+</td>
+<td width="25%" align="center">
+
+### AI & Computer Vision
+
+<img height="50" src="https://skillicons.dev/icons?i=opencv,python" />
+
+<img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Basic-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=000000" />
+
+**Skills:**
+- Image Processing
 - Shape Recognition
+- Data Analysis
+- Machine Learning
 
 </td>
 </tr>
