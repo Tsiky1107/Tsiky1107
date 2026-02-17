@@ -420,16 +420,16 @@ Motion stabilization platform using IMU sensor feedback and PID control for brus
 <img src="https://img.shields.io/badge/Email-tsikyandriantia@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://wa.me/261376236878">
-<img src="https://img.shields.io/badge/WhatsApp-+261_37_62_36_878-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
+<a href="https://wa.me/261349766449">
+<img src="https://img.shields.io/badge/WhatsApp-+261_34_97_66_449-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <a href="https://github.com/Tsiky1107">
 <img src="https://img.shields.io/badge/GitHub-Tsiky1107-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://linkedin.com/in/TON_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+<a href="www.linkedin.com/in/tsiky-andriantia-ravalison">
+<img src="https://img.shields.io/badge/LinkedIn-Tsiky-Andriantia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <br><br>
