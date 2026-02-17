@@ -50,7 +50,6 @@
 
 **ISPM Antsobolo**  
 Bachelor in Electronics, Computer Systems & Artificial Intelligence  
-Currently pursuing degree with focus on embedded systems and computer vision
 
 **42 Antananarivo**  
 Peer-to-peer Software Engineering Program  
